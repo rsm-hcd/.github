@@ -1,0 +1,18 @@
+{
+    "author": "andculture",
+    "description": "Shared Github Actions workflows used by andculture's engineering team",
+    "devDependencies": {
+        "and-cli": "2.7.2",
+        "prettier": "1.19.1"
+    },
+    "homepage": "https://github.com/AndcultureCode/.github#readme",
+    "license": "Apache-2.0",
+    "main": "npx and-cli",
+    "name": "andculturecode",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:AndcultureCode/.github.git"
+    },
+    "version": "1.0.0"
+}
