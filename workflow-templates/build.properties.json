@@ -1,5 +1,5 @@
 {
-    "name": "AndcultureCode Build Workflow",
     "description": "Basic build workflow template.",
-    "iconName": "build"
+    "iconName": "build",
+    "name": "Base build template"
 }
