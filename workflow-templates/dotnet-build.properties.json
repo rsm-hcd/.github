@@ -2,6 +2,6 @@
     "categories": ["csharp"],
     "description": "Workflow template for dotnet projects.",
     "filePatterns": ["*.sln", "NuGet.Config"],
-    "iconName": "build",
+    "iconName": "dotnet",
     "name": "Dotnet build template"
 }

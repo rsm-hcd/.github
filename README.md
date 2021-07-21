@@ -14,5 +14,3 @@ See the official documentation from Github on [Using a workflow template from yo
 # How to Contribute
 
 Information on contributing to this repo is in the [Contributing Guide](https://github.com/AndcultureCode/AndcultureCode/blob/main/CONTRIBUTING.md) in the Home repo.
-
-_Icons made by [Pause08](https://www.flaticon.com/authors/pause08) from [www.flaticon.com](https://www.flaticon.com/)_

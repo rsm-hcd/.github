@@ -2,6 +2,6 @@
     "categories": ["javascript", "typescript"],
     "description": "Workflow template for JavaScript/Typescript projects.",
     "filePatterns": [".npmignore", "jest.config.js", "tsconfig.json", "webpack.config.js"],
-    "iconName": "build",
+    "iconName": "node",
     "name": "JavaScript build template"
 }
